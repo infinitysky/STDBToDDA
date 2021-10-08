@@ -45,7 +45,7 @@ namespace SunTech_DB_To_DDA_converter
             // 
             // BDConfigCloseButton
             // 
-            this.BDConfigCloseButton.Location = new System.Drawing.Point(322, 343);
+            this.BDConfigCloseButton.Location = new System.Drawing.Point(322, 302);
             this.BDConfigCloseButton.Name = "BDConfigCloseButton";
             this.BDConfigCloseButton.Size = new System.Drawing.Size(75, 23);
             this.BDConfigCloseButton.TabIndex = 0;
@@ -63,9 +63,9 @@ namespace SunTech_DB_To_DDA_converter
             this.groupBox1.Controls.Add(this.dbNameInputBox);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.dbSourceInputBox);
-            this.groupBox1.Location = new System.Drawing.Point(30, 30);
+            this.groupBox1.Location = new System.Drawing.Point(30, 21);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(367, 270);
+            this.groupBox1.Size = new System.Drawing.Size(367, 250);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Database Settings";
@@ -136,7 +136,7 @@ namespace SunTech_DB_To_DDA_converter
             // 
             // dbConfigSaveButton
             // 
-            this.dbConfigSaveButton.Location = new System.Drawing.Point(30, 343);
+            this.dbConfigSaveButton.Location = new System.Drawing.Point(30, 302);
             this.dbConfigSaveButton.Name = "dbConfigSaveButton";
             this.dbConfigSaveButton.Size = new System.Drawing.Size(75, 23);
             this.dbConfigSaveButton.TabIndex = 2;
@@ -148,7 +148,7 @@ namespace SunTech_DB_To_DDA_converter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(436, 409);
+            this.ClientSize = new System.Drawing.Size(425, 353);
             this.Controls.Add(this.dbConfigSaveButton);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.BDConfigCloseButton);

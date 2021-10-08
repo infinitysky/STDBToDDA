@@ -62,7 +62,7 @@ namespace SunTech_DB_To_DDA_converter
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(321, 284);
+            this.exitButton.Location = new System.Drawing.Point(321, 339);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(75, 23);
             this.exitButton.TabIndex = 3;
@@ -72,7 +72,7 @@ namespace SunTech_DB_To_DDA_converter
             // 
             // restartButton
             // 
-            this.restartButton.Location = new System.Drawing.Point(321, 332);
+            this.restartButton.Location = new System.Drawing.Point(321, 390);
             this.restartButton.Name = "restartButton";
             this.restartButton.Size = new System.Drawing.Size(75, 23);
             this.restartButton.TabIndex = 4;
@@ -86,7 +86,7 @@ namespace SunTech_DB_To_DDA_converter
             this.menuToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(472, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(446, 24);
             this.menuStrip1.TabIndex = 5;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -127,7 +127,7 @@ namespace SunTech_DB_To_DDA_converter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(472, 468);
+            this.ClientSize = new System.Drawing.Size(446, 468);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.restartButton);

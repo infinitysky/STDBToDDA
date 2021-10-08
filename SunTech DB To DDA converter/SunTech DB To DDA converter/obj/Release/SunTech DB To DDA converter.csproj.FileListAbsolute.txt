@@ -1,0 +1,16 @@
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\bin\Release\SunTech DB To DDA converter.exe.config
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\bin\Release\SunTech DB To DDA converter.exe
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\bin\Release\SunTech DB To DDA converter.pdb
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\bin\Release\Newtonsoft.Json.dll
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\bin\Release\Newtonsoft.Json.Schema.dll
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\bin\Release\Newtonsoft.Json.xml
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\bin\Release\Newtonsoft.Json.Schema.xml
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech DB To DDA converter.csprojAssemblyReference.cache
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech_DB_To_DDA_converter.DBConfig.resources
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech_DB_To_DDA_converter.MainView.resources
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech_DB_To_DDA_converter.Properties.Resources.resources
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech DB To DDA converter.csproj.GenerateResource.cache
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech DB To DDA converter.csproj.CoreCompileInputs.cache
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech DB To DDA converter.csproj.CopyComplete
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech DB To DDA converter.exe
+D:\NANLI_DEV\STDBToDDA\SunTech DB To DDA converter\SunTech DB To DDA converter\obj\Release\SunTech DB To DDA converter.pdb
