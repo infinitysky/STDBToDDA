@@ -2,3 +2,6 @@ pyodbc
 pandas
 openpyxl
 xlrd
+
+
+pip3 install pyodbc numpy pandas openpyxl xlrd xlwt
