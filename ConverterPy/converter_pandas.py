@@ -9,8 +9,8 @@ import timeit
 
 def main():
     
-    server = 'Ziitech-Server\SQLExpress2008R2'
-    database = 'Pacific_Pines_2021'
+    server = 'localhost\SQLExpress2008R2'
+    database = 'dongshun'
     username = 'ZiiPos'
     password = 'ZiiPos884568'
 
@@ -57,7 +57,7 @@ def main():
 
     DDAExcel = convertToDDAExcel(NewExcelDataFrame,DDAExcel)
 
-    DDAExcel.to_excel(r'DDA.xls', index = False, header=True)
+    DDAExcel.to_excel(r'dongshunDDA1.xls', index = False, header=True)
 
 
 
@@ -129,7 +129,7 @@ def convertToDDAExcel(SourceExcelDataFrame,DDATemplete):
         if pd.notna(SourceExcelDataFrame.iloc[z]["F_ItemNo"]):          
             
             tempReadData = SourceExcelDataFrame.iloc[z]
-            tempReadData["Product Code"] = SourceExcelDataFrame.iloc[z]["F_Barcode"]
+            tempReadData["Product Code"] = SourceExcelDataFrame.iloc[z]["F_ItemNo"]
             tempReadData["Description1"] = SourceExcelDataFrame.iloc[z]["F_Desc"]
             tempReadData["Description2"] = SourceExcelDataFrame.iloc[z]["F_Desc2"]
             tempReadData["Category"] = SourceExcelDataFrame.iloc[z]["F_CatCode"]
